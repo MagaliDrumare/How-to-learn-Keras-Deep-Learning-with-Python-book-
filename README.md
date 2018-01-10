@@ -1,6 +1,6 @@
 # What is Keras? 
 * Keras Documentation : https://keras.io 
-* Keras is a deep-learning framework for python that provides a convenient way to define and train almost any king of deep learning model. 
+* Keras is a deep-learning framework for python that provides a convenient way to define and train almost any kind of deep learning model. 
 * Compatible with Python from 2.7 to 3.6. 
 * Keras allows the same code to run seamlessly on CPU and GPU. 
 * API that makes it easy to quickly to prototype deep-learning models. 
