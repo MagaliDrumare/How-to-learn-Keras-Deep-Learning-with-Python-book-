@@ -10,6 +10,7 @@
 # How to learn Keras? 
 * Keras Explained by Siraj Raval : https://youtu.be/j_pJmXJwMLA
 * Deep Learning with Python book by François Chollet : https://www.manning.com/books/deep-learning-with-python
+* GitHub code Deep Learning with Python book by François Chollet : https://github.com/fchollet/deep-learning-with-python-notebooks
 * Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017): https://youtu.be/UeheTiBJ0Io
 
 # Use Cases on this GitHub 
